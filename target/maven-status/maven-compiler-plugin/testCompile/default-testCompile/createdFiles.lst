@@ -1,0 +1,7 @@
+smarttech\ny\testrunner\MyRunner.class
+Com\TestNgChallanges\CrossBrowserTesting.class
+Com\TestNgChallanges\SameTestCasesRunMultipleTimes.class
+Com\TestNgChallanges\DependsOnMethod.class
+Com\TestNgChallanges\ParallalTesting.class
+Com\TestNgChallanges\TestDataProvider.class
+Com\TestNgChallanges\BasicAnnotation.class
